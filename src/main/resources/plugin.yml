@@ -1,0 +1,7 @@
+name: BlockPartyTeleportToSpectator
+version: ${project.version}
+main: com.bilicraft.blockpartyteleporttospectator.BlockPartyTeleportToSpectator
+api-version: 1.17
+description: 阻止玩家使用 MCMMO 队内传送到旁观模式的玩家
+depend:
+  - mcMMO
